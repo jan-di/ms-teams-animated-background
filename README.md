@@ -1,0 +1,1 @@
+# ms-teams-animated-background
