@@ -1,5 +1,8 @@
 # ms-teams-animated-background
 
+As of writing this tool, Teams is capable of using Videos and animated images as video backgrounds, but does not allow users to add their own videos.
+To circumentvent this limitation, you can convert a video to a GIF and add it manually using this tool.
+
 ## Requirements
 
 - [ffmpeg](https://ffmpeg.org/)
